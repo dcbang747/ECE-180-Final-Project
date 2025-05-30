@@ -25,5 +25,4 @@ nutribench_rnn/
 │   ├── checkpoints/  
 │   └── test_with_preds.csv    # created by predict.py  
 │  
-├── README.md  
-└── requirements.txt  
+└── README.md  
